@@ -1,0 +1,18 @@
+title: "Data Science for Chemistry and Engineering"
+description: "Course materials for CHEM 452 / CHBE 413 (Fall 2025)"
+theme: minima
+url: "https://thejacksonlab.github.io"
+baseurl: "/ds-chem-eng"
+author: "Nick Jackson"
+markdown: kramdown
+kramdown:
+  input: GFM
+
+header_pages:
+  - index.md
+  - syllabus.md
+  - lectures.md
+  - assignments.md
+  - project.md
+  - resources.md
+
